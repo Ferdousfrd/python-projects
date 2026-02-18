@@ -1,3 +1,5 @@
+# Project 01 (Noob)
+
 # Python Quiz Game 🎮
 
 A command-line tech trivia game built with Python to practice my python coding skills as a beginner
